@@ -1,5 +1,5 @@
 # kitura-upstart-script
-An upstart script to start the Kitura app server.
+An upstart script to start the IBM Kitura app server.
 
 ## Getting Started
 
